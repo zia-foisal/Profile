@@ -6,10 +6,10 @@
 * Masters of Science (Management of Technology), *Bangladesh University of Engineering and Technology (BUET)*, 2014-2016
 * Bachelors of Science (Forestry), *University of Chittagong*, 2007-2011
 # Experiences
-* Programme Assistant, IUCN Bangladesh Coutry Office, October, 2019 - till
+* GIS Officer, Reach Impact Initiative, August,2021 to - (continue
+* Programme Assistant, IUCN Bangladesh Coutry Office, October, 2019 - July 2021
 * Senior Forestry Officer, Center for Natural Resource Studies (CNRS), December, 2018 - July, 2019
 * Research Assistant, Institute of Appropriate Technology (IAT), BUET, May, 2015 - August, 2018
-* 
 # [Project 1: Reforestation Project](http://youtube.com/dataprofessor)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
