@@ -5,7 +5,6 @@
 # Education
 * Masters of Science (Management of Technology), *Bangladesh University of Engineering and Technology (BUET)*, 2014-2016
 * Bachelors of Science (Forestry), *University of Chittagong*, 2007-2011
-* 
 # Experiences
 * GIS Officer, Reach Impact Initiative, August,2021 to - (continue)
 * Programme Assistant, IUCN Bangladesh Coutry Office, October, 2019 - July 2021
