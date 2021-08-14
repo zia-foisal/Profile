@@ -1,6 +1,6 @@
 # Portfolio
 # Md Zia Uddin Foisal
-*An Aspiring Spatial Data Scientist | Urban Planning and Shelter Addressing | Forest Landscape Resoration Specialist | Wildlife  Conservanist*
+*An Aspiring Spatial Data Scientist | Landscape Planner | Forest Landscape Resoration Specialist | Wildlife  Conservanist*
 
 # Education
 * Masters of Science (Management of Technology), *Bangladesh University of Engineering and Technology (BUET)*, 2014-2016
