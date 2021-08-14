@@ -1,12 +1,13 @@
 # Portfolio
 # Md Zia Uddin Foisal
-*An Aspiring Spatial Data Scientist for the environment| Forest Landscape Resoration Specialist| Wildlife  Conservanist*
+*An Aspiring Spatial Data Scientist| Urban Planning and Shelter Addressing! Forest Landscape Resoration Specialist| Wildlife  Conservanist*
 
 # Education
 * Masters of Science (Management of Technology), *Bangladesh University of Engineering and Technology (BUET)*, 2014-2016
 * Bachelors of Science (Forestry), *University of Chittagong*, 2007-2011
+* 
 # Experiences
-* GIS Officer, Reach Impact Initiative, August,2021 to - (continue
+* GIS Officer, Reach Impact Initiative, August,2021 to - (continue)
 * Programme Assistant, IUCN Bangladesh Coutry Office, October, 2019 - July 2021
 * Senior Forestry Officer, Center for Natural Resource Studies (CNRS), December, 2018 - July, 2019
 * Research Assistant, Institute of Appropriate Technology (IAT), BUET, May, 2015 - August, 2018
