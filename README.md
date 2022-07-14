@@ -1,17 +1,16 @@
 # Portfolio
 # Md Zia Uddin Foisal
-*An Aspiring Spatial Data Scientist | Landscape Planner | Forest Landscape Resoration Specialist | Wildlife  Conservanist*
 
 # Education
-* Masters of Science (Management of Technology), *Bangladesh University of Engineering and Technology (BUET)*, 2014-2016
-* Bachelors of Science (Forestry), *University of Chittagong*, 2007-2011
+* Masters of Science (Management of Technology), *Bangladesh University of Engineering and Technology (BUET)*
+* Bachelors of Science (Forestry), *University of Chittagong*
 # Experiences
-* GIS Officer, Reach Impact Initiative, August,2021 to - (continue)
+* GIS Officer, Reach Initiative, August,2021 to - (continue)
 * Programme Assistant (GIS and Database), IUCN Bangladesh Coutry Office, October, 2019 - July 2021
 * Senior Forestry Officer, Center for Natural Resource Studies (CNRS), December, 2018 - July, 2019
 * Research Assistant, Institute of Appropriate Technology (IAT), BUET, May, 2015 - August, 2018
 # Projects
-# [Project 3 : UNHCR- REACH INITIATIVE Shelter Addressing Projects]
+# [Project 3 : UNHCR- REACH Shelter Addressing Project]
 # [Project 2: IUCN-UNHCR Humanitarian conservation actions for the biodiversity protection around the Rohingya refugee camps of Cox’s Bazar District Project](https://www.unhcr.org/news/briefing/2018/3/5a9e919a4/wildlife-risks-add-challenges-refugee-response-bangladesh.html)
 * Training volunteers in GPS and SW Map based data collections, and cleaning the data for further analysis in excel, RStudio and qgis.
 * Geo spatial analysis and map design for human elephant conflict zones through open street map exported household and ground survey data, tracking elephant movements through dung and footprints geographic locations.
